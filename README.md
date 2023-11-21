@@ -1,8 +1,5 @@
-# React + Vite
+Animated Ball Website with THREEJS 
+https://threejsball-project.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/AtaGuneser/threejs-ball-project/assets/109044557/dad07ef5-541a-4338-9077-fd356167ac30)
